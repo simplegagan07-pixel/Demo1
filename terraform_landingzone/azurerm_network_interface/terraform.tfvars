@@ -10,3 +10,5 @@ nic_details = {
   subnet_id = azurerm_subnet.subnet1.id
     }
     }
+
+    neeee
